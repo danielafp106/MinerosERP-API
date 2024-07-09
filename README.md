@@ -1,6 +1,6 @@
 # MinerosERP-API - ProyectoDSE2022 - Mineros ERP
 
-_Desarrollo API con Django y PostgreSQL de un sistema de software empresarial para el control y administración del personal que labora en la empresa Despacho Contable Mineros, con el fin de
+_Desarrollo de API con Django y PostgreSQL de un sistema de software empresarial para el control y administración del personal que labora en la empresa Despacho Contable Mineros, con el fin de
 dar solución a sus problematicas._
 
 ## Autores ✒️
